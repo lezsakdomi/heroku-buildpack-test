@@ -1,0 +1,2 @@
+echo "-----> Release script"
+exit 1
