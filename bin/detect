@@ -1,0 +1,2 @@
+echo "Test buildpack"
+exit 0
