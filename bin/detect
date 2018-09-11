@@ -1,2 +1,3 @@
+echo "-----> Detection"
 echo "Test buildpack"
 exit 0
