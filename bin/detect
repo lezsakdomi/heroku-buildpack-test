@@ -2,5 +2,7 @@ echo " Detection"
 echo "-----> List of files:"
 pwd
 ls -all
+echo "-----> git config:"
+cat .git/config
 echo "-----> Test buildpack detected"
 exit 0
