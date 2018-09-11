@@ -1,4 +1,5 @@
 echo " Detection"
+cd "$1"
 echo "-----> List of files:"
 pwd
 ls -all
