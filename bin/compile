@@ -1,5 +1,8 @@
 echo "-----> Parameters"
-echo "${*@Q}"
+echo "$@"
 
 echo "-----> ENV_DIR"
 ls -all "$3"
+
+echo "-----> env"
+set
